@@ -5,6 +5,7 @@
   "useTabs": false,
   "semi": true,
   "bracketSpacing": true,
+  "bracketSameLine": true,
   "overrides": [
     {
       "files": "*.html",
